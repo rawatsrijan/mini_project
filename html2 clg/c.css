@@ -1,0 +1,92 @@
+.cel{
+    border-style: dotted;
+    background-image: 
+    height: 10cm;
+}
+.middle .middle2{
+    height: 10cm;
+    display: fixed;
+    margin: 2   cm;
+background-color: rgb(41, 66, 66);
+display:flex;
+justify-content:space-around;
+padding-top: 3.2cm;
+
+}
+.cel{
+    background-color: rgb(110, 103, 103);
+}
+
+ 
+}
+.m{
+    display: flex;
+}
+
+.mid .mid2{
+    
+height: 8cm;
+top: 0cm;
+position:sticky;
+
+}
+    
+  
+  .head h1 {
+    font-size: 5rem;
+    text-align: center;
+padding-top: 2CM;
+color:wheat;
+font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+h2{
+    padding-top: 6.8cm;
+}
+h4{
+    color:rgb(231, 255, 18);
+    text-align: center;
+font-size: large;
+position: relative;
+padding-top: 1cm;}
+ol {
+    margin: 8px;
+    margin-top: -42px;
+    padding-top: 0.8cm;
+    
+    }
+    
+    li {
+    margin-right: 9px;
+    margin-left: 9px;
+    display:inline ;
+    transition: 3s;
+    padding:2.6cm;
+    
+    }
+    nav{
+        padding-top: 1cm;
+    }
+    
+    .main .vid{
+        float: left;
+        display: block;
+        border-style: dashed;
+        width: 25cm;
+    }
+    .main .gehu{
+        float:right;
+        display: block;
+        width:25cm ;
+        border-style: dashed;
+    }
+    body{
+        background-color:whitesmoke;
+    }
+    .middle2 .risc1{
+        padding-left: 2cm;
+    }
+    
+    .middle2 .risc2{
+        padding-right: 2cm;
+    } 

@@ -1,0 +1,47 @@
+
+.container{
+    display:contents
+    justify-content: center;
+ background-size: cover;
+ padding: 15%;
+    align-items: center;
+    background-image: url(bf.jpg);
+
+}
+
+.search{
+    width: 100%;
+    max-width: 700px;
+    background-color:pink;
+    display: flex;
+    align-items: center;
+    padding: 9% 9% 9%;
+    border-radius: 50px;
+}
+.search input{
+    flex: 1;
+    flex: 1;
+    border:0;
+    outline:none;
+    padding: 24px 24px;
+    padding-left: 1cm;
+    background-color:slateblue;
+    border-radius: 50px;
+
+
+    font-size: 22PX;
+    color:yellow;
+}
+.search button img{
+
+border-color:black;    
+    width: 65px;
+    border-radius: 60px;
+outline: none;
+
+
+}
+H1{
+    padding-left:5cm ;
+    color: antiquewhite;
+}

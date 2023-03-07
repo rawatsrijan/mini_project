@@ -1,0 +1,86 @@
+
+  
+nav{
+    color: black;
+}
+h5{
+    color:skyblue;
+}
+a{
+    text-decoration:none;
+}
+
+
+.stick{  
+position: sticky; 
+display:flexbox; 
+top:110px;  
+font-weight:bold;  
+
+}  
+
+.container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.bv{
+    position: absolute;
+    
+}
+.card img{
+    width: min-content;
+}
+
+.card p{
+    color: gold;
+}
+.card{
+    background-color:black;
+}
+
+.card h5{
+    color:aliceblue;
+}
+
+
+#a1{
+    background-image: url("aa.jpg");"    background-size:cover;
+    background-position: center;
+    height: 100vh;
+    background-size:cover;
+    background-attachment:fixed ;
+}
+
+#a2{
+    background-image: url("a2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment:fixed ;
+}
+
+button{
+    color:rgb(0, 255, 187);
+    
+}
+.offcanvas-header{
+    background-color: rgba(242, 63, 63, 0.702);
+}
+
+ p{
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+}
+
+#p{
+    
+    background-image: url("https://th.bing.com/th/id/OIP.He2pm4qSkPlgtlZX6lcakQHaK4?pid=ImgDet&rs=1");
+    background-size: cover ;
+
+}
+

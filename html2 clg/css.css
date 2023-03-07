@@ -1,0 +1,54 @@
+
+  a{
+    color:black;
+    font-size: large;
+font-style: italic;  
+display:contents;
+  }
+  .header{
+    background-image: url(nww.jpg);
+  }
+  h1{
+    font-size:xxx-large;
+    background-image: url(bf.jpg);
+font-family:cursive;
+color: bisque;
+  }
+h2{
+    border-width: 22px;
+    font-size: medium;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.rr{
+  background-color:burlywood;
+
+}
+header {
+width: 100%;
+height: 70px;
+background-color: #0daa90;
+
+}
+ol {
+margin: 8px;
+margin-top: -42px;
+align-items: center;
+padding-top: 0.2cm;
+padding-bottom: 0.2cm;
+padding-left: 1cm;
+padding-right: 1cm;
+
+}
+
+li {
+margin-right: 40px;
+display:inline ;
+align-items: center;
+transition:s;
+padding: 2.7cm;
+}
+nav{
+  align-items: center;
+}
